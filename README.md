@@ -36,7 +36,12 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
   - [Artificial Inteligence](./Data-Science--Cheat-Sheet-master/Artificial%20Intelligence/ai4all.pdf)
   - [Data Science](./Data-Science--Cheat-Sheet-master/Data%20Science/Data%20Science%20Cheat%20Sheet.pdf)
   - [Deep Learning](./Data-Science--Cheat-Sheet-master/Deep%20Learning/super-cheatsheet-deep-learning.pdf)
-  - [Excel](./https://github.com/mariapaoli/Data_Science_Great_Cheat_Sheets/tree/main/Data-Science--Cheat-Sheet-master/Excel)
+  - Excel
+      - [DAX](./Data-Science--Cheat-Sheet-master/Excel/DAX.pdf
+      - [Excel Shortcuts](./Data-Science--Cheat-Sheet-master/Excel/Excel%20Cheat%20Sheet.pdf)
+      - [Excel Formulas](./Data-Science--Cheat-Sheet-master/Excel/Excel%20Formulas%20Cheat%20Sheet.pdf)
+      - [DAX](./Data-Science--Cheat-Sheet-master/Deep%20Learning)
+
   - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
   - [Ordinary Differential Equations](./https://github.com/mariapaoli/Data_Science_Great_Cheat_Sheets/tree/main/Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations))
 * Data Science

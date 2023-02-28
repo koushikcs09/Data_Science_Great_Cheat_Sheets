@@ -4,7 +4,7 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
 
 ## Cheat Sheets Folder (folder 1) 
 * Basics
-  - [Jypiter Notebook](./Data_Science_Great_Cheat_Sheets/blob/5a12d4f8b184e514ec9a5d025c956fd6b83604d5/Cheat%20Sheets/Basics/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
+  - [Jypiter Notebook](./Cheat%20Sheets/Basics/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
   - VSC shortcuts macOS
   - [Python for beginners](./Data_Science_Great_Cheat_Sheets/blob/5a12d4f8b184e514ec9a5d025c956fd6b83604d5/Cheat%20Sheets/Basics/Python_Cheat_Sheet_for_Beginners.pdf)
   - [Scipy Linear Algebra](./Cheat Sheets/Basics/Scipy_Linear_Algebra_Cheat_Sheet.pdf)

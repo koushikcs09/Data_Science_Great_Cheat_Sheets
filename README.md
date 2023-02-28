@@ -2,7 +2,7 @@
 This are my favorite baby steps 🏄🏽🏄🏽‍♀️🏄🏽‍♂️ but all together great cheat sheets for Data Science<br>
 Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
 
-## Cheat Sheets Folder (folder 1) 👉🏽 [go here](./)
+## Cheat Sheets Folder (folder 1) 👉🏽 [go here](./Data_Science_Great_Cheat_Sheets)
 * [Basics](https://www.linkedin.com/in/mariapaoli)
   - Jypiter Notebook
   - VSC shortcuts macOS

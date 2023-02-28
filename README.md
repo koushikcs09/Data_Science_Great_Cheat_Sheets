@@ -2,11 +2,12 @@
 This are my favorite baby steps 🏄🏽🏄🏽‍♀️🏄🏽‍♂️ but all together great cheat sheets for Data Science<br>
 Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
 
-## Cheat Sheets Folder (folder 1) 👉🏽 [go here](./Data_Science_Great_Cheat_Sheets)
-* [Basics](https://www.linkedin.com/in/mariapaoli)
-  - Jypiter Notebook
+## Cheat Sheets Folder (folder 1) 
+* Basics
+  - [Jypiter Notebook](./Data_Science_Great_Cheat_Sheets/blob/5a12d4f8b184e514ec9a5d025c956fd6b83604d5/Cheat%20Sheets/Basics/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
   - VSC shortcuts macOS
-  - Python for beginners
+  - [Python for beginners](./Data_Science_Great_Cheat_Sheets/blob/5a12d4f8b184e514ec9a5d025c956fd6b83604d5/Cheat%20Sheets/Basics/Python_Cheat_Sheet_for_Beginners.pdf)
+  - [Scipy Linear Algebra](./Data_Science_Great_Cheat_Sheets/blob/5a12d4f8b184e514ec9a5d025c956fd6b83604d5/Cheat%20Sheets/Basics/Scipy%20Linear%20Algebra%20Cheat%20Sheet.pdf)
   - Scipy Linear Algebra
   - Working with text data in Python
 * [Data Manipulation](./)

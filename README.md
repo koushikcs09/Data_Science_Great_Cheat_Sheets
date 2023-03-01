@@ -1,4 +1,4 @@
-# Data Science Great CheatSheets for beginners 🚀 📂 👩🏻‍🦰🧔🏻👩🏾‍💻👩‍💻👦🏻
+# Data Science Great CheatSheets 🚀 📂 👩🏻‍🦰🧔🏻👩🏾‍💻👩‍💻👦🏻
 This are my favorite baby steps 🏄🏽🏄🏽‍♀️🏄🏽‍♂️ but all together great cheat sheets for Data Science<br>
 Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
 

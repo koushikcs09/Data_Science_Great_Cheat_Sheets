@@ -55,13 +55,14 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
       - [VIP cheatsheet: First-order ODE](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/cheatsheet-first-ode.pdf)
       - [VIP cheatsheet: Second-order ODE](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/cheatsheet-second-ode.pdf)
       - [Linear-algebra](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/linear-algebra.pdf)
-      - [trigonometry](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/trigonometry.pdf)
+      - [Trigonometry](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/trigonometry.pdf)
 
-* Probability and Statistics
-      - [probability](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-probability.pdf)
-      - [statistics](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-statistics.pdf)
-      - [probability v.2](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/probability_cheatsheet.pdf)
+  - Probability and Statistics
+  
+      - [Probability](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-probability.pdf)
+      - [Statistics](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-statistics.pdf)
+      - [Probability v.2](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/probability_cheatsheet.pdf)
 
-* [R](./Data-Science--Cheat-Sheet-master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf)
+  - [R](./Data-Science--Cheat-Sheet-master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf)
 
 

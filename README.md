@@ -39,12 +39,19 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
   - [Data Science](./Data-Science--Cheat-Sheet-master/Data%20Science/Data%20Science%20Cheat%20Sheet.pdf)
   - [Deep Learning](./Data-Science--Cheat-Sheet-master/Deep%20Learning/super-cheatsheet-deep-learning.pdf)
   - Excel
-      - [DAX](./Data-Science--Cheat-Sheet-master/Excel/DAX.pdf
+      - [DAX](./Data-Science--Cheat-Sheet-master/Excel/DAX.pdf)
       - [Excel Shortcuts](./Data-Science--Cheat-Sheet-master/Excel/Excel%20Cheat%20Sheet.pdf)
       - [Excel Formulas](./Data-Science--Cheat-Sheet-master/Excel/Excel%20Formulas%20Cheat%20Sheet.pdf)
-      - [DAX](./Data-Science--Cheat-Sheet-master/Deep%20Learning)
+      - [Pivot Tables](./Data-Science--Cheat-Sheet-master/Excel/Pivot%20Table.pdf)
+      - [Power Pivot](./Data-Science--Cheat-Sheet-master/Excel/powerpivot.pdf)
 
-  - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
+  - Machine Learning
+      - [ML Cheat Sheet](./Data-Science--Cheat-Sheet-master/Machine%20Learning/ML%20Cheat%20Sheet.pdf)
+      - [Machine Learning Modelling in R](./Data-Science--Cheat-Sheet-master/Machine%20Learning/Machine%20Learning%20Modelling%20in%20R.pdf)
+      - [Machine Learning with R](./Data-Science--Cheat-Sheet-master/Machine%20Learning/mlr.pdf))
+      - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
+      - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
+  
   - [Ordinary Differential Equations](./https://github.com/mariapaoli/Data_Science_Great_Cheat_Sheets/tree/main/Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations))
 * Data Science
 * 

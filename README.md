@@ -1,10 +1,8 @@
-under construction 🚧
-
 # Data Science Great CheatSheets for beginners 🚀 📂 👩🏻‍🦰🧔🏻👩🏾‍💻👩‍💻👦🏻
 This are my favorite baby steps 🏄🏽🏄🏽‍♀️🏄🏽‍♂️ but all together great cheat sheets for Data Science<br>
 Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
 
-## Cheat Sheets Folder (folder 1) 👉🏽
+## Cheat Sheets Folder (folder 1) 👇🏽
 * Basics
   - [Jypiter Notebook](./Cheat%20Sheets/Basics/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
   - [VSC shortcuts macOS](./Cheat%20Sheets/Basics/keyboard-shortcuts-VCS%20macos.pdf)
@@ -34,7 +32,7 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
   - [Bokeh, Python for DS](./Cheat%20Sheets/Data%20Visualization/Bokeh%20Cheat%20Sheet.pdf)
   - [Bokeh, Python for DS](./Cheat%20Sheets/Data%20Visualization/Bokeh%20Cheat%20Sheet.pdf)
 
-## Data Science Cheat Sheet master folder (folder 2) 👉🏽
+## Data Science Cheat Sheet master folder (folder 2) 👇🏽
   - [Artificial Inteligence](./Data-Science--Cheat-Sheet-master/Artificial%20Intelligence/ai4all.pdf)
   - [Data Science](./Data-Science--Cheat-Sheet-master/Data%20Science/Data%20Science%20Cheat%20Sheet.pdf)
   - [Deep Learning](./Data-Science--Cheat-Sheet-master/Deep%20Learning/super-cheatsheet-deep-learning.pdf)
@@ -48,15 +46,22 @@ Hope they are usefull for you aswell! 👊 <strong> Go rock it! <strong>
   - Machine Learning
       - [ML Cheat Sheet](./Data-Science--Cheat-Sheet-master/Machine%20Learning/ML%20Cheat%20Sheet.pdf)
       - [Machine Learning Modelling in R](./Data-Science--Cheat-Sheet-master/Machine%20Learning/Machine%20Learning%20Modelling%20in%20R.pdf)
-      - [Machine Learning with R](./Data-Science--Cheat-Sheet-master/Machine%20Learning/mlr.pdf))
-      - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
-      - [Machine Learning](./Data-Science--Cheat-Sheet-master/Machine%20Learning)
+      - [Machine Learning with R](./Data-Science--Cheat-Sheet-master/Machine%20Learning/mlr.pdf)
   
-  - [Ordinary Differential Equations](./https://github.com/mariapaoli/Data_Science_Great_Cheat_Sheets/tree/main/Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations))
-* Data Science
-* 
-* 
-* Machine Learning
-* Ordinary Differential Equations
+  - Ordinary Differential Equations
+      - [Linear Algebra and Calculus](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/Linear%20Algebra%20and%20Calculus.pdf)
+      - [Calculus](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/calculus.pdf)
+      - [Applications](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/cheatsheet-applications.pdf)
+      - [VIP cheatsheet: First-order ODE](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/cheatsheet-first-ode.pdf)
+      - [VIP cheatsheet: Second-order ODE](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/cheatsheet-second-ode.pdf)
+      - [Linear-algebra](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/linear-algebra.pdf)
+      - [trigonometry](./Data-Science--Cheat-Sheet-master/Ordinary%20Differential%20Equations/trigonometry.pdf)
+
 * Probability and Statistics
-* R
+      - [probability](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-probability.pdf)
+      - [statistics](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/cheatsheet-statistics.pdf)
+      - [probability v.2](./Data-Science--Cheat-Sheet-master/Probability%20and%20Statistics/probability_cheatsheet.pdf)
+
+* [R](./Data-Science--Cheat-Sheet-master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf)
+
+
